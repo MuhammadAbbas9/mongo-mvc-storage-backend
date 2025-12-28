@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongoose": "^9.0.2"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}

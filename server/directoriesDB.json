@@ -1,0 +1,32 @@
+[
+  {
+    "id": "39b06448-311f-43a3-9e85-48ae41183ad7",
+    "name": "root-UserName1@gmail.com",
+    "userId": "1c464ca5-e1f9-4014-9f0f-b24ec78e6c6b",
+    "parentDirId": null
+  },
+  {
+    "id": "07ac09af-32f3-43ca-91de-367679a62687",
+    "name": "root-UserName2@gmail.com",
+    "userId": "37395c48-36a6-4b3f-a00c-52bc3febd049",
+    "parentDirId": null
+  },
+  {
+    "id": "2e20a452-4621-48f3-b9c4-a3e124a2f6a3",
+    "name": "User 1",
+    "parentDirId": "39b06448-311f-43a3-9e85-48ae41183ad7",
+    "userId": "1c464ca5-e1f9-4014-9f0f-b24ec78e6c6b"
+  },
+  {
+    "id": "68283eb3-f361-440c-83e0-c54870d2706a",
+    "name": "Folder",
+    "parentDirId": "39b06448-311f-43a3-9e85-48ae41183ad7",
+    "userId": "1c464ca5-e1f9-4014-9f0f-b24ec78e6c6b"
+  },
+  {
+    "id": "ac4af530-ce1d-4e44-8f3a-32cf5ff4621a",
+    "name": "New Folder",
+    "parentDirId": "39b06448-311f-43a3-9e85-48ae41183ad7",
+    "userId": "1c464ca5-e1f9-4014-9f0f-b24ec78e6c6b"
+  }
+]
